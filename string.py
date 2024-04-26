@@ -1,0 +1,15 @@
+s="12 Anjani"
+print(s.upper())
+print(s.lower())
+print(s.islower())
+print(s.isupper())
+print(s.isalnum())
+print(s.isspace())
+print(s.rindex('a'))
+print(s.find('z'))
+print(s.count('A'))
+print(s.startswith('j',2,5)) 
+print(s.endswith('i '))
+print(s.split())
+print(s.split('n'))
+
